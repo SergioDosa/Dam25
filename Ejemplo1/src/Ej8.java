@@ -30,7 +30,7 @@ public class Ej8 {
 				return false;				
 			}
 		}						
-		return true;
+		return true;//ultimo ejercicio
 	}
 
 }
